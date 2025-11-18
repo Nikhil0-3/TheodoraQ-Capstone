@@ -84,13 +84,6 @@ TheodoraQ/
     └── assets/                 # Static assets
 ```
 
-## 📚 Documentation
-
-- **[PROJECT_STRUCTURE.md](./PROJECT_STRUCTURE.md)** - Detailed folder structure and architecture
-- **[MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md)** - How to migrate code and common patterns
-- **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - Quick lookup for common operations
-- **[RESTRUCTURING_SUMMARY.md](./RESTRUCTURING_SUMMARY.md)** - Summary of recent changes
-
 ## ✨ Features
 
 ### Authentication
@@ -236,8 +229,8 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue on GitHub.
+For support, email nikhil.030305@gmail.com or open an issue on GitHub.
 
 ---
 
-**Note**: This project was recently restructured to follow professional React best practices. See [RESTRUCTURING_SUMMARY.md](./RESTRUCTURING_SUMMARY.md) for details.
+**Note**: This project was recently restructured to follow professional React best practices.
